@@ -23,7 +23,7 @@
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **networking 🌐**
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **anything related with tech 👨‍💻.**
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** There are over *700* different *programming languages* 💡
 
 
 <br>
