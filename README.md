@@ -19,7 +19,7 @@
 
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **computer** 👨‍💻
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* **Python** and **HTML** 💪.
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Python 🐍 projects**.
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **networking 🌐**
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **anything related with tech 👨‍💻.**
 - <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
