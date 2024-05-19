@@ -1,13 +1,13 @@
-# B4sicallyF0x&nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# B4sicallyF0x&nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/B4sicallyF0x/B4sicallyF0x.svg)](http://hits.dwyl.com/B4sicallyF0x/B4sicallyF0x) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
@@ -17,13 +17,13 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* **Python** and **HTML** 💪.
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **networking 🌐**
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **anything related with tech 👨‍💻.**
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **computer** 👨‍💻
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* **Python** and **HTML** 💪.
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **networking 🌐**
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **anything related with tech 👨‍💻.**
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>
@@ -52,7 +52,7 @@
 
 <br>
 
-<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
