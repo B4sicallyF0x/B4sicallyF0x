@@ -1,29 +1,22 @@
-# B4sicallyF0x&nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
+# B4sicallyF0x&nbsp;<img src="https://i.giphy.com/dvBgr7pA6FTJOMOALY.webp" width="30px">
 
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/B4sicallyF0x/B4sicallyF0x.svg)](http://hits.dwyl.com/B4sicallyF0x/B4sicallyF0x) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/PC.gif" width="190" />
+<img align="right" alt="Tohru GIF" src="https://i.pinimg.com/originals/20/19/e6/2019e65afe87ca768af182dd70d8612a.gif" width="190" />
 
 ### <img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-      Hi, I'm B4sicallyF0x and I'm a software developer. I started in 2019, specializing in Python and cloud development. I really like to develop solutions through technology, covering what it entails, from mobile application development to server deployment, I invite you to see the projects that I have included here and also to go through my GitHub profile. You can contact me in Telegram @b4sicallyf0x, or in my email, contact@b4sicallyf0x.com
+      Hi! I'm B4sicallyF0x, also known as Foxy. I'm a neurodivergent powerhouse, electronics nerd, and cybersecurity enthusiast. Currently learning Python and C#, always exploring new tech, and figuring out how things work (often by breaking them first).
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **computer** 👨‍💻
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* **Python** and **C#** 💪.
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **Python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **networking 🌐**
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/happy.gif" width="20px" /> *Ask me* about **anything related with tech 👨‍💻.**
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/powerup.gif" width="20px" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 👩
-- <img alt="GIF" src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/coin.gif" width="20px" /> **Fun fact:** There are over *700* different *programming languages* 💡
 
 
 <br>
@@ -46,15 +39,7 @@
 </a>
 
 <br>
-<!--
-![B4sicallyF0x's github stats](https://github-readme-stats.vercel.app/api?username=B4sicallyF0x&show_icons=true&hide_border=true)
--->
 
-<br>
-
-<img src="https://github.com/B4sicallyF0x/B4sicallyF0x/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
 
 
 
