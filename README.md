@@ -30,12 +30,12 @@
 </a>
 
 
-<a href="https://github.com/B4sicallyF0x/moodle-solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B4sicallyF0x&repo=moodle-solver&theme=dark" />
+<a href="https://github.com/B4sicallyF0x/FoxyLogs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B4sicallyF0x&repo=FoxyLogs&theme=dark" />
 </a>
 
-<a href="https://github.com/B4sicallyF0x/epsilonfruit">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B4sicallyF0x&repo=epsilonfruit&theme=dark" />
+<a href="https://github.com/B4sicallyF0x/EasyAuth">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B4sicallyF0x&repo=EasyAuth&theme=dark" />
 </a>
 
 <br>
